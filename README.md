@@ -1,2 +1,4 @@
 # sandbox
-sample project practice
+Main Repo contains all the code.
+Process/IPC/Sorting 
+C Programming 
